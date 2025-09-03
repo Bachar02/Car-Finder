@@ -23,7 +23,6 @@ def health_check():
     return {"status": "Backend running 🚀"}
 
 
-# backend/backend.py - Add these functions
 
 def initialize_alerts_table():
     """Initialize alerts table"""
@@ -53,12 +52,9 @@ def initialize_alerts_table():
     except Exception as e:
         print(f"❌ Alerts table initialization failed: {e}")
 
-# Add this to your existing initialize_database function
 def initialize_database():
-    # ... your existing code ...
-    initialize_alerts_table()  # Add this line
+    initialize_alerts_table()  
 
-# Add these new API endpoints
 @app.post("/api/alerts")
 async def create_alert(request: Request):
     """Create a new car alert"""
@@ -127,7 +123,6 @@ def check_alerts():
         for alert in alerts:
             alert_id, user_id, brand, max_price, max_mileage, min_year, fuel_type, transmission, created_at, is_active = alert
 
-            # Build query based on alert criteria
             query = "SELECT * FROM cars WHERE 1=1"
             params = []
 

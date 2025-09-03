@@ -1,4 +1,3 @@
-# backend/services/sql_service.py
 import sqlite3
 
 def read_sql_query(sql_query: str, db_path: str = "cars.db"):
