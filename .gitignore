@@ -70,7 +70,6 @@ __pycache__/
 # Virtual environments
 .venv/
 venv/
-ENV/
 env/
 *.env
 
@@ -85,3 +84,5 @@ env/
 Thumbs.db
 ehthumbs.db
 desktop.ini
+
+.env
