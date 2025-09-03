@@ -1,14 +1,16 @@
 -- Merging decision tree log ---
 application
 INJECTED from C:\Users\bacha\OneDrive\Desktop\learnia\flutter_car\frontend\android\app\src\main\AndroidManifest.xml:2:5-32:19
+MERGED from [:url_launcher_android] C:\Users\bacha\OneDrive\Desktop\learnia\flutter_car\frontend\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-14:19
+MERGED from [:url_launcher_android] C:\Users\bacha\OneDrive\Desktop\learnia\flutter_car\frontend\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-14:19
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\bacha\.gradle\caches\transforms-3\d97cf3ffa6f05f8e8de8b41da1cca67f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\bacha\.gradle\caches\transforms-3\d97cf3ffa6f05f8e8de8b41da1cca67f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
-MERGED from [androidx.core:core:1.6.0] C:\Users\bacha\.gradle\caches\transforms-3\bbbbd632898af927049fa4f571ee9e7e\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.6.0] C:\Users\bacha\.gradle\caches\transforms-3\bbbbd632898af927049fa4f571ee9e7e\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.10.1] C:\Users\bacha\.gradle\caches\transforms-3\b6067ea04b980d60b46d271eb9438da2\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] C:\Users\bacha\.gradle\caches\transforms-3\b6067ea04b980d60b46d271eb9438da2\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bacha\.gradle\caches\transforms-3\a5233cd83b7fc5025cacdb8dbeefd5d6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bacha\.gradle\caches\transforms-3\a5233cd83b7fc5025cacdb8dbeefd5d6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.6.0] C:\Users\bacha\.gradle\caches\transforms-3\bbbbd632898af927049fa4f571ee9e7e\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.10.1] C:\Users\bacha\.gradle\caches\transforms-3\b6067ea04b980d60b46d271eb9438da2\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
 	android:name
 		INJECTED from C:\Users\bacha\OneDrive\Desktop\learnia\flutter_car\frontend\android\app\src\main\AndroidManifest.xml
 manifest
@@ -17,23 +19,26 @@ INJECTED from C:\Users\bacha\OneDrive\Desktop\learnia\flutter_car\frontend\andro
 INJECTED from C:\Users\bacha\OneDrive\Desktop\learnia\flutter_car\frontend\android\app\src\main\AndroidManifest.xml:1:1-44:12
 INJECTED from C:\Users\bacha\OneDrive\Desktop\learnia\flutter_car\frontend\android\app\src\main\AndroidManifest.xml:1:1-44:12
 MERGED from C:\Users\bacha\OneDrive\Desktop\learnia\flutter_car\frontend\android\app\src\main\AndroidManifest.xml:1:1-44:12
+MERGED from [:url_launcher_android] C:\Users\bacha\OneDrive\Desktop\learnia\flutter_car\frontend\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-16:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\bacha\.gradle\caches\transforms-3\19ff66f031cb422764b0da25d9d6bdb4\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\bacha\.gradle\caches\transforms-3\d97cf3ffa6f05f8e8de8b41da1cca67f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.browser:browser:1.5.0] C:\Users\bacha\.gradle\caches\transforms-3\7d8771a3c3b3929c49906df700ac2b62\transformed\browser-1.5.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\bacha\.gradle\caches\transforms-3\f08acb90420e5f313c5c702837657296\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\bacha\.gradle\caches\transforms-3\2e2f568e346ac1b0594404c0f65ad96a\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\bacha\.gradle\caches\transforms-3\7ffa8d06e8a5b49556ec0d0be4900a54\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity:1.0.0] C:\Users\bacha\.gradle\caches\transforms-3\ef9e71e89c6e7e66e50d4d00f25cb083\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\bacha\.gradle\caches\transforms-3\3cc0a300e8e16504f8c964b75d4a5699\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.6.0] C:\Users\bacha\.gradle\caches\transforms-3\bbbbd632898af927049fa4f571ee9e7e\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\bacha\.gradle\caches\transforms-3\406d26805069acc87aa8facfd8342946\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.10.1] C:\Users\bacha\.gradle\caches\transforms-3\b6067ea04b980d60b46d271eb9438da2\transformed\core-1.10.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\bacha\.gradle\caches\transforms-3\82607205b718ca85f337d9abc831d373\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\bacha\.gradle\caches\transforms-3\98d12cf67083661540ed8b18c685550e\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\bacha\.gradle\caches\transforms-3\0fba0f1202efb57f4db798731f75326d\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bacha\.gradle\caches\transforms-3\a5233cd83b7fc5025cacdb8dbeefd5d6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\bacha\.gradle\caches\transforms-3\6e71e3f5183c67b139db76d44f2671b0\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\bacha\.gradle\caches\transforms-3\78f57242292929d72743f2319a29cce9\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\bacha\.gradle\caches\transforms-3\41d55c9465d8bf2646b5b2ad0f143b36\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\bacha\.gradle\caches\transforms-3\82607205b718ca85f337d9abc831d373\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\bacha\.gradle\caches\transforms-3\cd15386ddc76831e0b043b14a412a72f\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bacha\.gradle\caches\transforms-3\a5233cd83b7fc5025cacdb8dbeefd5d6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\bacha\.gradle\caches\transforms-3\2a17abb3251629d9365dc214a005c5fe\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\bacha\.gradle\caches\transforms-3\cc149ec643fd78a4cbe257f85c0b7001\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\bacha\.gradle\caches\transforms-3\55b58230e55ac19e11de59e32a6117b3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\bacha\.gradle\caches\transforms-3\763c42b1ff6c7b83fdd4d593706ae1c8\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
 INJECTED from C:\Users\bacha\OneDrive\Desktop\learnia\flutter_car\frontend\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 INJECTED from C:\Users\bacha\OneDrive\Desktop\learnia\flutter_car\frontend\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 INJECTED from C:\Users\bacha\OneDrive\Desktop\learnia\flutter_car\frontend\android\app\src\debug\AndroidManifest.xml:1:1-7:12
@@ -67,10 +72,14 @@ uses-sdk
 INJECTED from C:\Users\bacha\OneDrive\Desktop\learnia\flutter_car\frontend\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\bacha\OneDrive\Desktop\learnia\flutter_car\frontend\android\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\bacha\OneDrive\Desktop\learnia\flutter_car\frontend\android\app\src\main\AndroidManifest.xml
+MERGED from [:url_launcher_android] C:\Users\bacha\OneDrive\Desktop\learnia\flutter_car\frontend\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] C:\Users\bacha\OneDrive\Desktop\learnia\flutter_car\frontend\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\bacha\.gradle\caches\transforms-3\19ff66f031cb422764b0da25d9d6bdb4\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\bacha\.gradle\caches\transforms-3\19ff66f031cb422764b0da25d9d6bdb4\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\bacha\.gradle\caches\transforms-3\d97cf3ffa6f05f8e8de8b41da1cca67f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\bacha\.gradle\caches\transforms-3\d97cf3ffa6f05f8e8de8b41da1cca67f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.5.0] C:\Users\bacha\.gradle\caches\transforms-3\7d8771a3c3b3929c49906df700ac2b62\transformed\browser-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.5.0] C:\Users\bacha\.gradle\caches\transforms-3\7d8771a3c3b3929c49906df700ac2b62\transformed\browser-1.5.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\bacha\.gradle\caches\transforms-3\f08acb90420e5f313c5c702837657296\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\bacha\.gradle\caches\transforms-3\f08acb90420e5f313c5c702837657296\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\bacha\.gradle\caches\transforms-3\2e2f568e346ac1b0594404c0f65ad96a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
@@ -81,26 +90,28 @@ MERGED from [androidx.activity:activity:1.0.0] C:\Users\bacha\.gradle\caches\tra
 MERGED from [androidx.activity:activity:1.0.0] C:\Users\bacha\.gradle\caches\transforms-3\ef9e71e89c6e7e66e50d4d00f25cb083\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\bacha\.gradle\caches\transforms-3\3cc0a300e8e16504f8c964b75d4a5699\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\bacha\.gradle\caches\transforms-3\3cc0a300e8e16504f8c964b75d4a5699\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.6.0] C:\Users\bacha\.gradle\caches\transforms-3\bbbbd632898af927049fa4f571ee9e7e\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.6.0] C:\Users\bacha\.gradle\caches\transforms-3\bbbbd632898af927049fa4f571ee9e7e\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\bacha\.gradle\caches\transforms-3\406d26805069acc87aa8facfd8342946\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\bacha\.gradle\caches\transforms-3\406d26805069acc87aa8facfd8342946\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.10.1] C:\Users\bacha\.gradle\caches\transforms-3\b6067ea04b980d60b46d271eb9438da2\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\bacha\.gradle\caches\transforms-3\b6067ea04b980d60b46d271eb9438da2\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\bacha\.gradle\caches\transforms-3\82607205b718ca85f337d9abc831d373\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\bacha\.gradle\caches\transforms-3\82607205b718ca85f337d9abc831d373\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\bacha\.gradle\caches\transforms-3\98d12cf67083661540ed8b18c685550e\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\bacha\.gradle\caches\transforms-3\98d12cf67083661540ed8b18c685550e\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\bacha\.gradle\caches\transforms-3\0fba0f1202efb57f4db798731f75326d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\bacha\.gradle\caches\transforms-3\0fba0f1202efb57f4db798731f75326d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bacha\.gradle\caches\transforms-3\a5233cd83b7fc5025cacdb8dbeefd5d6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bacha\.gradle\caches\transforms-3\a5233cd83b7fc5025cacdb8dbeefd5d6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\bacha\.gradle\caches\transforms-3\6e71e3f5183c67b139db76d44f2671b0\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\bacha\.gradle\caches\transforms-3\6e71e3f5183c67b139db76d44f2671b0\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\bacha\.gradle\caches\transforms-3\78f57242292929d72743f2319a29cce9\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\bacha\.gradle\caches\transforms-3\78f57242292929d72743f2319a29cce9\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\bacha\.gradle\caches\transforms-3\41d55c9465d8bf2646b5b2ad0f143b36\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\bacha\.gradle\caches\transforms-3\41d55c9465d8bf2646b5b2ad0f143b36\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\bacha\.gradle\caches\transforms-3\82607205b718ca85f337d9abc831d373\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\bacha\.gradle\caches\transforms-3\82607205b718ca85f337d9abc831d373\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\bacha\.gradle\caches\transforms-3\cd15386ddc76831e0b043b14a412a72f\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\bacha\.gradle\caches\transforms-3\cd15386ddc76831e0b043b14a412a72f\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bacha\.gradle\caches\transforms-3\a5233cd83b7fc5025cacdb8dbeefd5d6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bacha\.gradle\caches\transforms-3\a5233cd83b7fc5025cacdb8dbeefd5d6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\bacha\.gradle\caches\transforms-3\2a17abb3251629d9365dc214a005c5fe\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\bacha\.gradle\caches\transforms-3\2a17abb3251629d9365dc214a005c5fe\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\bacha\.gradle\caches\transforms-3\cc149ec643fd78a4cbe257f85c0b7001\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\bacha\.gradle\caches\transforms-3\cc149ec643fd78a4cbe257f85c0b7001\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\bacha\.gradle\caches\transforms-3\55b58230e55ac19e11de59e32a6117b3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\bacha\.gradle\caches\transforms-3\55b58230e55ac19e11de59e32a6117b3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\bacha\.gradle\caches\transforms-3\763c42b1ff6c7b83fdd4d593706ae1c8\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\bacha\.gradle\caches\transforms-3\763c42b1ff6c7b83fdd4d593706ae1c8\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
 INJECTED from C:\Users\bacha\OneDrive\Desktop\learnia\flutter_car\frontend\android\app\src\debug\AndroidManifest.xml
 INJECTED from C:\Users\bacha\OneDrive\Desktop\learnia\flutter_car\frontend\android\app\src\debug\AndroidManifest.xml
 	android:targetSdkVersion
@@ -113,6 +124,14 @@ uses-permission#android.permission.INTERNET
 ADDED from C:\Users\bacha\OneDrive\Desktop\learnia\flutter_car\frontend\android\app\src\debug\AndroidManifest.xml:6:5-66
 	android:name
 		ADDED from C:\Users\bacha\OneDrive\Desktop\learnia\flutter_car\frontend\android\app\src\debug\AndroidManifest.xml:6:22-64
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] C:\Users\bacha\OneDrive\Desktop\learnia\flutter_car\frontend\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-13:74
+	android:exported
+		ADDED from [:url_launcher_android] C:\Users\bacha\OneDrive\Desktop\learnia\flutter_car\frontend\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-37
+	android:theme
+		ADDED from [:url_launcher_android] C:\Users\bacha\OneDrive\Desktop\learnia\flutter_car\frontend\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-71
+	android:name
+		ADDED from [:url_launcher_android] C:\Users\bacha\OneDrive\Desktop\learnia\flutter_car\frontend\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-74
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\bacha\.gradle\caches\transforms-3\d97cf3ffa6f05f8e8de8b41da1cca67f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
 	android:required
@@ -125,3 +144,23 @@ ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\bacha\.gradle\caches\t
 		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\bacha\.gradle\caches\transforms-3\d97cf3ffa6f05f8e8de8b41da1cca67f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
 	android:name
 		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\bacha\.gradle\caches\transforms-3\d97cf3ffa6f05f8e8de8b41da1cca67f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\bacha\.gradle\caches\transforms-3\b6067ea04b980d60b46d271eb9438da2\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\bacha\.gradle\caches\transforms-3\b6067ea04b980d60b46d271eb9438da2\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\bacha\.gradle\caches\transforms-3\b6067ea04b980d60b46d271eb9438da2\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+permission#com.example.flutter_car.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\bacha\.gradle\caches\transforms-3\b6067ea04b980d60b46d271eb9438da2\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\bacha\.gradle\caches\transforms-3\b6067ea04b980d60b46d271eb9438da2\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\bacha\.gradle\caches\transforms-3\b6067ea04b980d60b46d271eb9438da2\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\bacha\.gradle\caches\transforms-3\b6067ea04b980d60b46d271eb9438da2\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\bacha\.gradle\caches\transforms-3\b6067ea04b980d60b46d271eb9438da2\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.flutter_car.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\bacha\.gradle\caches\transforms-3\b6067ea04b980d60b46d271eb9438da2\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\bacha\.gradle\caches\transforms-3\b6067ea04b980d60b46d271eb9438da2\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
