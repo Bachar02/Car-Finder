@@ -38,7 +38,7 @@ def test_database_connection(db_path: str = "cars.db"):
         conn = sqlite3.connect(db_path)
         cursor = conn.cursor()
 
-        # Check if cars table exists
+        # Checking if cars table exists
         cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='cars'")
         table_exists = cursor.fetchone() is not None
 
